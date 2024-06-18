@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ofvinals&label=Profile%20views&color=0e75b6&style=flat" alt="ofvinals" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-
+- 💪 I always like to be constantly learning and improving** 
 - 🌱 I’m currently learning **React Advanced (Redux, Reducer) in Rolling Code School**
-
+- 🌎 Currently living in Tucuman, Argentina**
+- 🔎 Looking to gain my first work experience so I can put my skills into practice to improve them and learn new ones 
 - 📫 How to reach me **ofvinals@gmail.com**
 - 👨‍💻 All of my portfolio are available at **https://ofvdev.netlify.app/**
 
