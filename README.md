@@ -73,10 +73,7 @@
 </table>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofvinals&layout=compact&theme=dark" alt=ofvinals />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ofvinals&show_icons=true&locale=en&theme=tokyonight" alt="ofvinals" /></p>
 
 
 </div>
